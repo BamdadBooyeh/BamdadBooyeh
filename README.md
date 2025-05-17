@@ -13,7 +13,7 @@
 ### 🔭 What I’m Working On
 - NLP Projects: [Natural Language Processing](https://github.com/BamdadBooyeh/NLP)  
 - **Thesis:** Deep Learning for EEG Neural Signal Classification  
-- Constantly exploring: Transformers, CNNs, optimization, and model interpretability  
+- Currently exploring: Transformers, CNNs, optimization, and model interpretability  
 
 ---
 
