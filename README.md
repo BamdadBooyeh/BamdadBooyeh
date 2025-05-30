@@ -19,7 +19,7 @@
 
 ### 📫 Reach Me At
 - **Email:** bamdad.booyeh@outlook.com  
-- **LinkedIn:** [Bamdad Booyeh](https://linkedin.com/in/bamdad%20booyeh)  
+- **LinkedIn:** [Bamdad Booyeh](https://www.linkedin.com/in/bamdad-booyeh-632598252/)  
 
 ---
 
