@@ -33,13 +33,6 @@
 </p>
 
 ---
-
-### ⚡ About Me
-- 🎓 Student in Data Analytics  
-- 🧠 Passionate about machine learning, neural networks, and data-driven problem solving  
-- 📈 From raw data to clean models with purpose  
-- 💬 Ask me about: model evaluation, data visualization, clustering, neural nets
-
 ---
 
 > *"Clean code, sharp models, and no unnecessary noise."*
